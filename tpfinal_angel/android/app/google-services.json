@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904524114265",
+    "project_id": "tpfinal-angel",
+    "storage_bucket": "tpfinal-angel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904524114265:android:48bc29b4da0fddfa3c4448",
+        "android_client_info": {
+          "package_name": "com.example.tpfinal_angel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXCTt9v4_tJWX-flFwzjAjZXLN7P4URRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
